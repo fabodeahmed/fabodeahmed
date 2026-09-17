@@ -39,7 +39,7 @@ I am currently strengthening my skills through practical projects in:
 
 I believe consistent practice and building real projects are essential to developing strong technical skills.
 
-### 📫 Connect With Me
+### Connect With Me
 
 * **GitHub:** [@fabodeahmed](https://github.com/fabodeahmed)
 * **Email:** [fabodeahmed@gmail.com](mailto:fabodeahmed@gmail.com)
