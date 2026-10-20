@@ -22,22 +22,32 @@ My background in **Statistics and Engineering**, combined with my ongoing traini
 
 **[Movie Recommendation System](https://github.com/fabodeahmed/movie-recommendation-system)**
 
-A MovieLens-based machine learning project focused on predicting user–movie ratings using collaborative filtering techniques, including:
+A machine learning project using the MovieLens dataset to predict user–movie ratings through collaborative filtering.
 
-* User + Movie Bias
-* SVD / Matrix Factorization
-* Hyperparameter tuning
-* Model ensemble
+**Key Techniques**
 
-The project evaluates model performance using **RMSE** and documents the modelling process, results, and presentation.
+* User and Movie Bias
+* SVD and SVD++ (Matrix Factorization)
+* Hyperparameter Tuning
+* Ensemble Modelling
+
+**Results**
+
+* Phase One validation RMSE: 0.877906
+* Phase Two validation RMSE: 0.834601
+* Kaggle submissions across both phases
+
+The project demonstrates practical experience in model evaluation, collaborative filtering, hyperparameter tuning, and ensemble modelling.
+
+🎥 **[Watch the Phase One Presentation](https://youtu.be/rJpq3Xykl8A)**
 
 ### Current Focus
 
-I am currently strengthening my skills through practical projects in:
+Continuously developing my data science skills through hands-on projects, with an emphasis on:
 
-**Data Analysis → Machine Learning → Recommender Systems**
+**Data Analysis → Machine Learning → Applied Data Science**
 
-I believe consistent practice and building real projects are essential to developing strong technical skills.
+I am also exploring new project ideas that apply statistical and machine learning techniques to practical problems.
 
 ### Connect With Me
 
